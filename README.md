@@ -3,7 +3,7 @@
 - 🇯🇵 こんにちは！古賀寛志です
 - 🇧🇷 Oi! Me chamo André Koga
 
-I'm currently getting a computer science Bachelor's Degree at Georgia Tech, *go Jackets!* 🐝
+I'm currently getting a computer science Bachelor's Degree at Georgia Tech 🐝
 
 - [My coursework](https://github.com/andre-koga/andre-koga/blob/main/coursework.md)
 - My CS threads: Intelligence/Media
@@ -38,4 +38,4 @@ As Feynman famously said,
 
 ---
 
-*なんくるないさー*
+*Go Jackets!*
