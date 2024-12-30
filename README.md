@@ -17,7 +17,7 @@ I'm currently getting a computer science Bachelor's Degree at Georgia Tech 🐝
 
 As one of the most flexible and far-reaching study areas, CS is the one true tool to achieve anything one can dream of. It has one of the lowest entry barriers and one of the biggest potentials for a positive world impact, and it is here to stay.
 
-It is the only tool that can satisfy my neverending urge to create, and it taught me that there's no excuses for lack of perseverance and curiosity.
+It is the only tool that can satisfy my neverending urge to create, and it taught me that there's no excuses for lack of perseverance or curiosity.
 
 As Feynman famously said,
 
