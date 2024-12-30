@@ -5,9 +5,9 @@
 
 I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech - GO JACKETS! 🐝
 
-- Threads in Intelligence and Media
+- My CS threads: Intelligence/Media
+- Interests: Alternatives to current AI methodology, and video-game design.
 - [Coursework](https://github.com/andre-koga/andre-koga/coursework.md)
-- Other interests: Alternatives to current AI methodology, and video-game design.
 
 ---
 
