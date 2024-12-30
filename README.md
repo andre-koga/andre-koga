@@ -6,18 +6,24 @@
 I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech - GO JACKETS! 🐝
 
 - My CS threads: Intelligence/Media
-- Interests: Alternatives to current AI methodology, and video-game design.
-- [Coursework](https://github.com/andre-koga/andre-koga/coursework.md)
+- Interests: Alternatives to current AI methodology, and video-game design
+- Positions: Board member of Big Data Big Impact during freshman year
+
+[My coursework](https://github.com/andre-koga/andre-koga/coursework.md) | [LinkedIn](https://linkedin.com/andrehkoga)
 
 ---
 
-**Why CS?** As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive. 
+## Why CS?
+
+As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive. 
 
 As Feynman famously said,
 
 > "What I cannot create, I do not understand."
 
 ---
+
+## My work
 
 - 🔭 **I’m currently working on** an open-source Atomic Habits companion app (check the book by James Clear)
 - 🌱 **I’m currently learning** Tauri, a cross-platform tool for app development
