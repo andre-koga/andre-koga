@@ -3,7 +3,7 @@
 - 🇯🇵 こんにちは！古賀寛志です
 - 🇧🇷 Oi! Me chamo André Koga
 
-I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech - GO JACKETS! 🐝
+I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech, *go Jackets!* 🐝
 
 - My CS threads: Intelligence/Media
 - Interests: Alternatives to current AI methodology, and video-game design
