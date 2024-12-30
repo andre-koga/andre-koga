@@ -1,9 +1,15 @@
 ## Hey! I'm André Koga 👋
-🇯🇵 こんにちは！古賀寛志です
-🇧🇷 Oi! Me chamo André Koga
+
+- 🇯🇵 こんにちは！古賀寛志です
+- 🇧🇷 Oi! Me chamo André Koga
 
 I'm getting a Bachelor's degree of Computer Science at the Georgia Institute of Technology - GO JACKETS! 🐝
-As Feynman famously said"What I cannot create, I do not understand"
+
+As Feynman famously said,
+
+> "What I cannot create, I do not understand."
+
+Sharing this optimistic and daring mentality, I am 
 
 <!--
 **andre-koga/andre-koga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
