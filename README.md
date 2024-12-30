@@ -3,7 +3,7 @@
 - 🇯🇵 こんにちは！古賀寛志です
 - 🇧🇷 Oi! Me chamo André Koga
 
-I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech, *go Jackets!* 🐝
+I'm currently getting a computer science Bachelor's Degree at Georgia Tech, *go Jackets!* 🐝
 
 - My CS threads: Intelligence/Media
 - Interests: Alternatives to current AI methodology, and video-game design
@@ -16,7 +16,9 @@ I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech, 
 
 ### Why CS?
 
-As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive of. 
+As one of the most flexible and far-reaching study areas, CS is the one true tool to achieve anything one can dream of. It has one of the lowest entry barriers and one of the biggest potentials for positive world impact, and it is here to stay.
+
+It is the only tool that can satisfy my neverending urge to create, and it taught me that there's no excuses for lack of perseverance and curiosity.
 
 As Feynman famously said,
 
