@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey! I'm André Koga 👋
+🇯🇵 こんにちは！古賀寛志です
 
 <!--
 **andre-koga/andre-koga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
