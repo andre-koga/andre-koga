@@ -8,7 +8,7 @@ I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech -
 - My CS threads: Intelligence/Media
 - Interests: Alternatives to current AI methodology, and video-game design
 - Positions: Board member of Big Data Big Impact during freshman year
-- [My coursework](https://github.com/andre-koga/andre-koga/coursework.md)
+- [My coursework](https://github.com/andre-koga/andre-koga/blob/main/coursework.md)
 
 [LinkedIn](https://linkedin.com/andrehkoga) | [Website](https://andrekoga.com)
 
