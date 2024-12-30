@@ -35,3 +35,7 @@ As Feynman famously said,
 - 💬 **Ask me about** my favorite books, trips, and any fun wisdom bits
 - 📪 **How to contact me:** Send an email! andrehkoga1@gmail.com
 - ⚡ **Fun fact:** I am ambidextrous!
+
+---
+
+*なんくるないさー*
