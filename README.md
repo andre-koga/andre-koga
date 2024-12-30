@@ -21,6 +21,21 @@ As Feynman famously said,
 - 📫 **How to reach me:** Send me an email at andrehkoga1@gmail.com
 - ⚡ **Fun fact:** I am ambidextrous!
 
+---
+
+<div align="center">
+<a>
+<img src="https://raw.githubusercontent.com/andre-koga/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/andre-koga/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+<a>
+<img src="https://raw.githubusercontent.com/andre-koga/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/andre-koga/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+</div>
+
 <!--
 **andre-koga/andre-koga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
