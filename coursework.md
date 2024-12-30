@@ -1,9 +1,9 @@
 
 Threads in Intelligence/Media.
 
-Awards:
-- 2x Dean's List (GPA ≥ 3)
-- 4x Faculty Honor's (GPA ≥ 4)
+Awards so far:
+- 2x Dean's List
+- 4x Faculty Honor's
 
 CS courses taken:
 - CS 1301 (Intro to Python)
