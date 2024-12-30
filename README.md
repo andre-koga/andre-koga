@@ -3,7 +3,9 @@
 - 🇯🇵 こんにちは！古賀寛志です
 - 🇧🇷 Oi! Me chamo André Koga
 
-I'm getting a Bachelor's degree of Computer Science at the Georgia Institute of Technology - GO JACKETS! 🐝
+I'm currently getting a Bachelor's degree of Computer Science at the Georgia Institute of Technology - GO JACKETS! 🐝
+
+---
 
 As Feynman famously said,
 
