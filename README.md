@@ -3,9 +3,9 @@
 - 🇯🇵 こんにちは！古賀寛志です
 - 🇧🇷 Oi! Me chamo André Koga
 
-I'm currently getting a *Computer Science Bachelor's Degree* at Georgia Tech - GO JACKETS! 🐝
+I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech - GO JACKETS! 🐝
 
-*Why CS?* As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive. 
+**Why CS?** As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive. 
 
 As Feynman famously said,
 
