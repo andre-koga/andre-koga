@@ -5,6 +5,12 @@
 
 I'm currently getting a **Computer Science Bachelor's Degree** at Georgia Tech - GO JACKETS! 🐝
 
+- Threads in Intelligence and Media
+- [Coursework](https://github.com/andre-koga/andre-koga/coursework.md)
+- Other interests: Alternatives to current AI methodology, and video-game design.
+
+---
+
 **Why CS?** As one of the most flexible and far-reaching majors, CS is the one true tool capable of achieving anything my mind can conceive. 
 
 As Feynman famously said,
