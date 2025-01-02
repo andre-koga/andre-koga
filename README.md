@@ -1,7 +1,7 @@
 ## Hey! I'm André Koga 👋
 
-- 🇯🇵 こんにちは！古賀寛志です
-- 🇧🇷 Oi! Me chamo André Koga
+- こんにちは！古賀寛志です
+- Oi! Me chamo André Koga
 
 I'm currently getting a computer science Bachelor's Degree at Georgia Tech 🐝
 
