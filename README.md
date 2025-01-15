@@ -23,6 +23,8 @@ As Feynman famously said,
 
 > "What I cannot create, I do not understand."
 
+[Some prehistoric projects]([https:](https://github.com/andre-koga/andre-koga/blob/main/old-projects.md))
+
 ---
 
 ### About me
