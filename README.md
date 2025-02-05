@@ -29,8 +29,8 @@ As Feynman famously said,
 
 ### About me
 
-- 🔭 **I’m currently working on** an open-source Atomic Habits companion app (I recommend the book by James Clear)
-- 🌱 **I’m currently learning** Tauri, a cross-platform tool for app development
+- 🔭 **I’m currently working on** Harumi as a full-stack developer, mostly working on the frontend right now
+- 🌱 **I’m currently learning** TipTap, a cool web editor@
 - 👯 **I’m looking to collaborate on** anything AI related that is not simply a ChatGPT wrapper
 - 🧐 **I'm looking for feedback** about my [portfolio](https://andrekoga.com). Does it look good?
 - 💬 **Ask me about** my favorite books, trips, and any fun wisdom bits
