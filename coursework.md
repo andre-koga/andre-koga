@@ -5,8 +5,8 @@ Threads: *Intelligence and Media*
 Current GPA: *3.88*
 
 Awards so far:
-- *2x Dean's List*
-- *4x Faculty Honor's*
+- *3x Dean's List* (GPA above 3.0 on a semester)
+- *4x Faculty Honor's* (Perfect GPA on a semester)
 
 ---
 
