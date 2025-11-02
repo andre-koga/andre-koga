@@ -25,6 +25,8 @@ Awards so far:
 - CS 3600 (Intro to AI)
 - CS 3630 (Intro to Perception and Robotics)
 - CS 4488 (Procedural Content Generation)
+- CS 4496 (Computer Animation)
+- CS 4590 (Computer Audio)
 - CS 4641 (Machine Learning)
 
 **Other STEM courses taken:**
