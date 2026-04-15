@@ -27,16 +27,4 @@ As Feynman famously said,
 
 ---
 
-### About me
-
-- 🔭 **I’m currently working on** Harumi as a full-stack developer and at NOIC as their mentor / developer
-- 🌱 **I’m currently learning** PayloadCMS!
-- 👯 **I’m looking to collaborate on** anything AI related that is not simply a ChatGPT wrapper
-- 🧐 **I'm looking for feedback** about my [portfolio](https://andrekoga.com). Does it look good?
-- 💬 **Ask me about** my favorite books, trips, and any fun wisdom bits
-- 📪 **How to contact me:** Send an email! andrehkoga1@gmail.com
-- ⚡ **Fun fact:** I love bouldering! 🧗
-
----
-
 *Go Jackets!* (●'◡'●)
