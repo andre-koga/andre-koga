@@ -3,11 +3,11 @@
 - こんにちは！古賀寛志です
 - Oi! Me chamo André Koga
 
-I'm currently getting a computer science Bachelor's Degree at Georgia Tech 🐝
+I've graduated with a Computer Science Bachelor's Degree at Georgia Tech, with honors! 🐝
 
 - [My coursework](https://github.com/andre-koga/andre-koga/blob/main/coursework.md)
 - Interests: Alternatives to current AI methodology and video-game design
-- Positions: Board member of Big Data Big Impact during freshman year
+- Positions: Board member of Big Data Big Impact during freshman year, CTO & Co-founder @ Harumi
 
 [LinkedIn](https://linkedin.com/andrehkoga) | [Portfolio](https://andrekoga.com)
 
